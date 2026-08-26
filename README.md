@@ -310,7 +310,17 @@ AI-Smart-Multipurpose-Agribot/
 
 ## 📸 Project Images
 
-You can later add:
+### System Architecture
+
+![System Architecture](images/system_architecture.png)
+
+### Software Architecture
+
+![Software Architecture](images/software_architecture.png)
+
+### IoT Dashboard
+
+![IoT Dashboard](images/iot_dashboard.png)
 
 ### System Architecture
 
@@ -324,13 +334,6 @@ You can later add:
 ![IoT Dashboard](images/dashboard.png)
 ```
 
-### Hardware Prototype
-
-```text
-![Agribot Prototype](images/prototype.jpg)
-```
-
----
 
 ## 👨‍💻 Team Members
 
